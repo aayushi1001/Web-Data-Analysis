@@ -5,11 +5,17 @@ Dataset Description:
 The variables in the dataset are defined here for better understanding.
 Attribute	Description
 Bounces - 	It represents the percentage of visitors who enter the site and "bounce" (leave the site) rather than continuing to view other pages within the same site.
+
 Continent - 	It shows the continent from which the site has been accessed.
+
 Source group -	It shows how the visitor has accessed the site.
+
 Time on page -	It shows how long the user has spent on that particular page of the website.
+
 Unique pageview -	It represents the number of sessions during which that page was viewed one or more times.
+
 Visits -	A visit counts all visitors, no matter how many times the same visitor may have been to your site.
+
 
 
 Analysis Tasks:
